@@ -1,0 +1,1 @@
+This is my Odin Project Google home page project. The purpose of this exercise is to be able to mess around with the code that makes up google's home page.
